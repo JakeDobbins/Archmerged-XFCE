@@ -23,5 +23,5 @@ sudo systemctl enable org.cups.cupsd.service
 echo "After rebooting it will work"
 
 echo "################################################################"
-echo "#########   printer management software installed     ##########"
+echo "##########   printer management software installed    ##########"
 echo "################################################################"
