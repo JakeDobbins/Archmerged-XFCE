@@ -1,9 +1,7 @@
 #!/bin/bash
 ##################################################################################################################
-# Author 	: 	Erik Dubois
-# Website 	: 	https://www.erikdubois.be
-# Website	:	https://www.archmerge.com
-# Website	:	https://www.archmerged.com
+# Author 	: 	Jake Dobbins
+# email :  hollarback@me.com
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
