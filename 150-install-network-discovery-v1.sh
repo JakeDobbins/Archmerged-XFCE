@@ -15,5 +15,5 @@ sudo systemctl start avahi-daemon.service
 
 
 echo "################################################################"
-echo "####       network discovery  software installed        ########"
+echo "#####       network discovery  software installed        #######"
 echo "################################################################"
