@@ -20,5 +20,5 @@ sudo pacman -S gst-libav gst-plugins-good gst-plugins-base --noconfirm --needed
 sudo pacman -S gstreamer-vaapi gst-plugins-bad --noconfirm --needed
 
 echo "################################################################"
-echo "#########   sound software software installed   ################"
+echo "##########   sound software software installed   ###############"
 echo "################################################################"
